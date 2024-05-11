@@ -1,5 +1,8 @@
-# Ex.No:1a  			Study of Socket Programming
 
+
+# Ex.No:1a  			Study of Socket Programming
+# NAME:Mathavan V
+# REG NO:212223110026
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
